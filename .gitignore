@@ -1,0 +1,9 @@
+node_modules/
+sample-app/dist/
+
+sample-app/nade_modules/
+sample-app/dist-server
+sample-app/tmp
+sample-app/out-tsc
+sample-app/e2e/*.js
+sample-app/e2e/*.map
